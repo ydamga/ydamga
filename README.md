@@ -11,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasin-damga" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/ydamga" target="blank" rel=”noopener”><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerrank_logo_icon_145206.png" alt="LinkedIn" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
